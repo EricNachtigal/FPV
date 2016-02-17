@@ -1,3 +1,3 @@
 # FPV (ON HOLD)
 R/C aircraft First Person View
-This project is on hold while FAA regulations are finalized.
+This project has been canceled due to current FAA regulations and government restrictions.
